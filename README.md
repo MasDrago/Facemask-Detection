@@ -18,4 +18,3 @@ run the following bash command to convert the weights from darknet format to Ker
 python convert.py model_data/yolov3.cfg model_data/yolov3.weights model_data/yolo_weights.h5
 ```
 and start training.<br/><br/>
-Keras implementation inspired by [qqwweee](https://github.com/qqwweee/keras-yolo3)
