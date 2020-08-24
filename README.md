@@ -9,7 +9,7 @@ Dataset can be found here-> [drive link](https://drive.google.com/drive/folders/
 The dataset is composed by MAFA, WIDER FACE and various other datasets.<br/>
 Annotations of training and validation set is available in madel_data folder in YOLO format.
 ## Pre trained Weights:
-If you do not wish to train weights from scratch. Here are the weights we obtained after training for decent amount of time -> 
+If you do not wish to train weights from scratch. Here are the weights I obtained after training for decent amount of time -> 
 [weights](https://drive.google.com/file/d/1-BL5nkVSjwBxOpDbTzBWOIHn8I-HopaF/view?usp=sharing)<br/> 
 ## Training Weights:
 For training from scratch, download pretrained weights on COCO dataset from [here](https://pjreddie.com/media/files/yolov3.weights) and paste it in model_data folder. Then, 
